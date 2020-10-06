@@ -56,7 +56,7 @@ Je reste proche de l'ENSAE:
 
 * prof en 2A, cours Python pour _data-scientists_
 et économistes:
-* https://github.com/linogaliana/python-datascientist
+* https://linogaliana-teaching.netlify.app/
 
 ## Exemple de projets faits à l'ENSAE
 
